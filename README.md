@@ -49,7 +49,7 @@ I'm a **React Native Developer** focused on building performant, scalable mobile
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WilWilbert123&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilWilbert123&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WilWilbert123&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
